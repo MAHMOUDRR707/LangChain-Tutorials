@@ -28,6 +28,7 @@ In this Notebook we start to  Build conversation with ChatGpt chat and build dia
 
 In this Notebook we start to explain one of technquies which help our chat model to understand some tricks or equation which it would understand
 
+----
 
 ## 5 - [Output Parser](https://github.com/MAHMOUDRR707/LangChain-Tutorials/blob/master/05_output_Parser.ipynb)
 
